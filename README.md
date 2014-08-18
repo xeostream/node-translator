@@ -31,7 +31,12 @@ $ ntrans chrome
 
  翻译：n. 铬，铬合金；铬黄；谷歌浏览器
 ```
-
+---
+```
+$ ntrans xeon
+ Xeon
+ 翻译：n. 至强
+```
 ## License
 
 The MIT License
